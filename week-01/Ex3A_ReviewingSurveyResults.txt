@@ -1,0 +1,81 @@
+What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+1. What conclusion can you reach about the responses to this question?
+All of the students wanted to be well prepared for the class with notes out and logged into the meeting early.
+2. Is the default summary or visualization helpful? How could it be improved?
+Yes it is helpful with showing the latest response, it ca be improved by showing similar responses.
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+N/A
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Its hard to pinpoint similarities without reading every response
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would rephrase this as more of a schedule question. 
+
+
+Do you have a second monitor connected to your computer?
+
+1. What conclusion can you reach about the responses to this question?
+Most of the class has a second monitor. 
+2. Is the default summary or visualization helpful? How could it be improved?
+It is helpful by showing the divide of people who have and who dont have a second monitor.
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+N/A
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+N/A
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+i think the question is phrased well.
+
+
+Do you have an external keyboard and mouse?
+
+1. What conclusion can you reach about the responses to this question?
+A majority of the class uses an external mouse or keyboard.
+2. Is the default summary or visualization helpful? How could it be improved?
+It nice by showing the visual of who uses and who doesn't.
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+This question had an other, but no one answered with other.
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+N/A
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+Maybe asking the people who said no if they are gonna get an external mouse and keyboard.
+
+How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+
+1. What conclusion can you reach about the responses to this question?
+That most of the students will take notes on pen and paper, also that some students with use another method for notes.
+2. Is the default summary or visualization helpful? How could it be improved?
+To show what the other options were in the foreground.
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+You have to click more details and that can be hard for people to find since the text is very small.
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+N/A
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+Maybe instead of an other option just have the option be digital, traditional or both.
+
+What is one  question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+1. What conclusion can you reach about the responses to this question?
+A lot of students have questions about content in the course.
+2. Is the default summary or visualization helpful? How could it be improved?
+I dislike the way the written questions data is laid out. I would improve by joining together similar questions.
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+n/a
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+i have to go and read every response to see all of the data.
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+I would make it a choice question of yes then the question or no so its less data to go through.
+Next respond to the below questions:
+6. Is there anything that surprised you about the survey responses?
+I was surprised that everyone had a similar response to the first question. 
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+No
+8. Pretend you are the instructor. Is there anything you can learn from this survey to helping how you approach teaching this class?
+It shows me how prepared my students are as well as how well equipped they are for the class. Also it shows any questions the students have before they learn.
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+Its good to be anonymous for the questions section, but it might be better to have the names for the equipment so you know who might have issues.
