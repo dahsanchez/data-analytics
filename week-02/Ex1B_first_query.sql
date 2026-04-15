@@ -1,0 +1,3 @@
+/*
+Sakila is a database used to collect information about actors and flims for use by people
+*/
