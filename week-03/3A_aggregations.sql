@@ -23,10 +23,15 @@ products);
 select round(avg(distinct UnitPrice),2) as AvgPrice
 from 
 	products;
+    
 -- 3. Write a query to find the price of the most expensive item that Northwind sells. Then 
 -- write a second query to find the name of the product with that price, plus the name of 
 -- the supplier for that product.
-
+select max(UnitPrice) as MostExpensive
+from
+	products;
+    
+select
 -- 4. Write a query to find total monthly payroll (the sum of all the employees’ monthly 
 -- salaries).
 

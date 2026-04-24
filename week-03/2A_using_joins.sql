@@ -113,7 +113,7 @@ select * from products;
 select * from `order details`;
 
 SELECT
-    OrderID,
+    orders.OrderID,
     OrderDate,
     ShipName,
     ShipAddress
