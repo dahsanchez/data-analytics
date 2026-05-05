@@ -1,1 +1,22 @@
 print('Hello World!')
+
+
+
+message = 'Hello World!'
+print(message)
+
+#Hello World printed twice because we have two print statements. 
+
+
+# Displaying dollars and cents
+dollars = 3
+cents = 0.50
+print(dollars + cents)
+
+# i noticed that it added the two numbers  togther and made the vaiabe a float.
+cents = cents + 0.25
+print(dollars + cents)
+
+d_str = '3 Dollars'
+c_str = '50 Cents'
+print(d_str + " " + c_str)
