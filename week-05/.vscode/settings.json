@@ -1,5 +1,9 @@
 {
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.enablePreview": false,
-    "editor.quickSuggestions": false
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    }
 }

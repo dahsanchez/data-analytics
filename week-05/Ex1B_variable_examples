@@ -1,6 +1,60 @@
-Customer ID
-Customer’s name =
-Customer gender =
-Customer date of birth =
-Driver’s license number =
-Auto policy number =
+#Customer ID
+cust_id = 0 # most likely a number
+#Customer’s name
+cust_name = '' # most likely a string
+#Customer gender
+cust_gender = '' # most likey a string
+#Customer date of birth
+cust_dob = 0 # a number date 
+#Driver’s license number
+driver_lic_num = '' # contains letters
+#Auto policy number
+auto_pol_num = 0 #most ikely a number
+
+my_name = 'Dahlia Sanchez'
+city = 'Hayward'
+state = 'CA'
+
+
+#a) What is the full list of reserved words that can’t be used for variable names?
+''' 
+False	def	if	raise
+None	del	import	return
+True	elif	in	try
+and	else	is	while
+as	except	lambda	with
+assert	finally	nonlocal	yield
+break	for	not
+class	form	or
+continue	global	pass
+'''
+
+'''b) Pick 5 of these words and review the explanation for how it is used as a keyword in 
+Python. Add these 5 definitions as # comments to your exercise document. Put ^^ 
+around any terms that you are not familiar with.'''
+'''
+^^raise:
+    The raise statement is used to raise an error. 
+    These errors are visible in the traceback and they cancel 
+    the execution of the program if not handled properly.
+'''
+'''
+^^None:
+    There is no null value in Python. 
+    The None is an object that represents the absence of a value. 
+    It is like an empty object.
+'''
+'''
+^^import:
+    This statement is used to import modules to the project.
+'''
+'''
+elif:
+    Shorthand for else if, checks if some other condition holds 
+    when the condition in the if statement is false.
+'''
+'''
+in:
+    The in statement is used to check if an element is 
+    present in an iterable like list or tuple
+'''
