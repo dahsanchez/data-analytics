@@ -1,0 +1,10 @@
+#area of a rectangle wirh user input
+
+base = int(input('Enter vaule for base: '))
+height = int(input('Enter a value for height: '))
+
+area = base * height
+
+print('Side A is',base)
+print('Side B is',height)
+print('The area of the rectangle is',area)
