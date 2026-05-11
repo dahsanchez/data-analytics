@@ -5,5 +5,7 @@
         "comments": "off",
         "strings": "off",
         "other": "off"
-    }
+    },
+    "diffEditor.codeLens": false,
+    "python.analysis.autoFormatStrings": true
 }
