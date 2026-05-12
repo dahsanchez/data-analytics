@@ -1,0 +1,11 @@
+{
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.enablePreview": false,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "diffEditor.codeLens": false,
+    "python.analysis.autoFormatStrings": true
+}
